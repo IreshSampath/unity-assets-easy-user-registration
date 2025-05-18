@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.ireshsampath.unity-assets.easy-user-registration",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "EasyUserRegistration",
   "description": "EasyUserRegistration is a Unity asset designed to simplify user registration and authentication within your games. It offers flexible UI integration and supports local and online data storage.",
   "unity": "6000.1",
