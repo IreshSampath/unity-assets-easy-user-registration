@@ -1,0 +1,34 @@
+﻿{
+  "name": "com.ireshsampath.unity-assets.easy-user-registration",
+  "version": "1.0.6",
+  "displayName": "EasyUserRegistration",
+  "description": "EasyUserRegistration is a Unity asset designed to simplify user registration and authentication within your games. It offers flexible UI integration and supports local and online data storage.",
+  "unity": "6000.1",
+  "unityRelease": "1f1",
+  "documentationUrl": "https://github.com/IreshSampath/unity-assets-easy-user-registration/blob/main/README.md",
+  "changelogUrl": "https://example.com/easy-user-registration-changelog.html",
+  "licensesUrl": "https://example.com/easy-user-registration-licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "5.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "EasyUserRegistration Sample",
+      "description": "An example scene demonstrating how to integrate and use EasyUserRegistration.",
+      "path": "Samples~/Sample 1"
+    }
+  ],
+  "keywords": [
+    "user registration",
+    "unity registration",
+    "user authentication",
+    "easy registration",
+    "login",
+    "signup"
+  ],
+  "author": {
+    "name": "Iresh Sampath",
+    "email": "ireshsampath@gmail.com",
+    "url": "https://ireshsampath.portfoliobox.io/"
+  }
+}
